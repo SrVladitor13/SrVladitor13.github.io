@@ -38,7 +38,7 @@
     <!-- Page level custom scripts -->
     <script src="js/demo/chart-area-demo.js"></script>
     <script src="js/demo/chart-pie-demo.js"></script>
-    
+
 
 </head>
 <body id="page-top">
@@ -49,26 +49,26 @@
         <!-- Sidebar -->
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
-        
+
 
 
             <!-- Sidebar - Brand -->
-            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.php">
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
                 <div class="sidebar-brand-icon rotate-n-15">
                     <i class="fas fa-laugh-wink">
                     </i>
-          
+
                 </div>
-                        
-        
+
+
                 <div class="sidebar-brand-text mx-3">Educar para Transformar </div>
             </a>
 
-            <!-- Divider 
+            <!-- Divider
             <hr class="sidebar-divider my-0">
             -->
 
-             
+
 
             <!-- Divider -->
             <hr class="sidebar-divider">
@@ -113,7 +113,7 @@
                 <i class="fas fa-fw fa-table"></i>
                     <span>Niveles Educativos</span></a>
             </li>
-            
+
 
             <!-- Divider -->
             <hr class="sidebar-divider">
@@ -181,7 +181,7 @@
         <div id="content-wrapper" class="d-flex flex-column">
 
             <!-- Main Content -->
-            
+
             <!-- End of Main Content -->
 
 
